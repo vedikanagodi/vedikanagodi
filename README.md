@@ -44,6 +44,6 @@ Fullstack  Web Development
 
 <p align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vedikanagodi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
 </p>
